@@ -1,0 +1,15 @@
+https://upgrade.wifi.sim.com/software/00853400-b2d3-11eb-a249-07a34e7c09d5_sep_TB-WR1800K-MT7621-CPE-SIMAX1800T-V1.0-202105111500
+https://upgrade.wifi.sim.com/software/01575b1e-b31a-11eb-a249-07a34e7c09d5_sep_TB-WR1800K-MT7621-CPE-SIMAX1800T-V1.0-202105121900
+https://upgrade.wifi.sim.com/software/1597aff6-b154-11eb-a55b-ff5514cba83a_sep_TB-WR1800K-MT7621-CPE-SIMAX1800T-V1.0-202105101100
+https://upgrade.wifi.sim.com/software/1d59b736-b940-11eb-a249-07a34e7c09d5_sep_TB-WR1800K-MT7621-CPE-SIMAX1800T-V1.0-202105182000
+https://upgrade.wifi.sim.com/software/3e60346c-b316-11eb-a249-07a34e7c09d5_sep_TB-WR1800K-MT7621-CPE-SIMAX1800T-V1.0-202105121900
+https://upgrade.wifi.sim.com/software/72f6b814-b3b5-11eb-a249-07a34e7c09d5_sep_TB-WR1800K-MT7621-CPE-SIMAX1800T-V1.0-202105131200
+https://upgrade.wifi.sim.com/software/75e14710-b167-11eb-a55b-ff5514cba83a_sep_TB-WR1800K-MT7621-CPE-SIMAX1800T-V1.0-202105101100
+https://upgrade.wifi.sim.com/software/7cf932e4-b93f-11eb-a249-07a34e7c09d5_sep_TB-WR1800K-MT7621-CPE-SIMAX1800T-V1.0-202105182000
+https://upgrade.wifi.sim.com/software/TB-SIMAX1800-HV2-MT7621-ROUTE-SIMAX1800T-V1.0-202205262148
+https://upgrade.wifi.sim.com/software/TB-WR1800K-MT7621-CPE-SIMAX1800T-V1.0-202109030000
+https://upgrade.wifi.sim.com/software/TB-WR1800K-MT7621-CPE-SIMAX1800T-V1.0-202202251523
+https://upgrade.wifi.sim.com/software/TB-WR1800K-MT7621-CPE-SIMAX1800T-V1.0-202203281517
+https://upgrade.wifi.sim.com/software/c5c76760-b30a-11eb-a249-07a34e7c09d5_sep_TB-WR1800K-MT7621-CPE-SIMAX1800T-V1.0-202105121740
+https://upgrade.wifi.sim.com/software/dcc5c8ca-b324-11eb-a249-07a34e7c09d5_sep_TB-WR1800K-MT7621-CPE-SIMAX1800T-V1.0-202105121900
+https://upgrade.wifi.sim.com/software/e6d9a4d4-bc3f-11eb-a249-07a34e7c09d5_sep_TB-WR1800K-MT7621-CPE-SIMAX1800T-V1.0-202105182000
